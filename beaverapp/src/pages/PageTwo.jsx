@@ -6,5 +6,22 @@ export default function PageTwo() {
       <h1 className="text-2xl font-bold">Page Two</h1>
       <p>Welcome to the second page.</p>
     </div>
+/*
+We be writing code in here
+
+*/
+
+
+
+
+
+
+
+
+
+
+
   );
 }
+
+

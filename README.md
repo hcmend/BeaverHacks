@@ -18,7 +18,8 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/hcmend/BeaverHacks.git
    cd BeaverHacks
-   cd beaverapp```
+   cd beaverapp
+```
 
 Install the required dependencies using npm:
 
@@ -52,7 +53,8 @@ const MyNewComponent = () => {
   );
 };
 
-export default MyNewComponent;```
+export default MyNewComponent;
+```
 
 Import and use the component in your App.jsx or any page component:
 
@@ -66,7 +68,8 @@ function App() {
       <MyNewComponent />
     </div>
   );
-}```
+}
+```
 
 Adding New Pages
 To add a new page:
@@ -88,7 +91,8 @@ const PageThree = () => {
   );
 };
 
-export default PageThree;```
+export default PageThree;
+```
 
 Add a route for this page in the App.jsx file:
 
@@ -105,12 +109,14 @@ function App() {
       </Routes>
     </div>
   );
-}```
+}
+```
 
 Add navigation to this page in your Navigation.jsx component:
 
 ```jsx
-<Link to="/page-three">Page Three</Link>```
+<Link to="/page-three">Page Three</Link>
+```
 
 Troubleshooting
 If you face issues with dependencies or building the app, try deleting the node_modules/ folder and running npm install again.

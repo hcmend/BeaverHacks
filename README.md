@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/hcmend/BeaverHacks.git
    cd BeaverHacks
    cd beaverapp
